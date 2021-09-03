@@ -44,7 +44,7 @@ h3 {
 }
 
 p {
-    text-align: center;
+    text-align: auto;
     margin: 0 auto;
     line-height: 1.5;
 
