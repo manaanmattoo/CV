@@ -188,5 +188,6 @@ p {
    
 
 }
-.end {color: #EAF6F6;
+.end {display:block;
+    color: #EAF6F6;
     text-align:center;}
