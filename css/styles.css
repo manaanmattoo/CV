@@ -21,6 +21,7 @@ hr {
 
 h1 {
     width: 100%;
+    display: block;
     text-align: center;
     font-family: 'Sacramento', cursive;
     font-size: 6rem;
