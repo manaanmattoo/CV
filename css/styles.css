@@ -52,8 +52,12 @@ p {
 
 }
 
+.sub-title { margin-top: 0%;
+    border-top: 0px;
 
-.cloud1 {
+}
+
+.cloud1 {display: block;
     position: absolute;
     right: 170px;
     top: 45px;
@@ -62,9 +66,9 @@ p {
 
 }
 
-.cloud2 {
+.cloud2 { display: block;
     position: absolute;
-    left: 10px;
+    left: 40px;
     top: 300px;
     margin: 0 auto;
     width: 180px;
