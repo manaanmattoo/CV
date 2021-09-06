@@ -52,8 +52,10 @@ p {
 
 }
 
-.sub-title { margin-top: 0%;
+.sub-title { 
+    margin-top: 0%;
     border-top: 0px;
+    display: block;
 
 }
 
