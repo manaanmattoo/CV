@@ -19,7 +19,7 @@ hr {
 
 }
 
-h1 {
+h1 {position:relative;
     width: 100%;
     display: block;
     text-align: center;
@@ -56,7 +56,7 @@ p {
     margin-top: 0%;
     border-top: 0px;
     display: block;
-
+position:relative;
 }
 
 .cloud1 {display: block;
